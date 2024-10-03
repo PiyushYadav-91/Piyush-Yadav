@@ -1,0 +1,5 @@
+feature branch 1
+I created this file and added it to feature branch
+This is only committed to feature branch 
+I also noted that that when doing a commmit, I only had 2 options, either to commit it to feature-1 branch or create a new branch
+I did not have option to directly commit to the main branch.
